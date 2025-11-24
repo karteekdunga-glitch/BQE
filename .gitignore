@@ -1,0 +1,19 @@
+# Python / venv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment & secrets
+.env
+bqe_token.json
+
+# OS junk
+.DS_Store
+Thumbs.db
